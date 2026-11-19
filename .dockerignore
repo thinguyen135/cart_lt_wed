@@ -1,4 +1,4 @@
-target
+**/target
 .vscode
 nb-configuration.xml
 .git
